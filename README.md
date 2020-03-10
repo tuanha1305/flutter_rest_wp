@@ -1,4 +1,4 @@
-# restwp
+# FlutterRestWP
 
 A new Flutter plugin.
 
